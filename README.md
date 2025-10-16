@@ -4,7 +4,7 @@
 Implementação de lista duplamente encadeada para praticar os conceitos de estrutura de dados.
 
 
-## Autores
+## Autores 
 
 - [@LeandroMCarv](https://www.github.com/LeandroMCarv)
 
